@@ -32,8 +32,6 @@ You can use either of the following methods to run the model:
 - Inference Speed: ~20 FPS (CPU), 45+ FPS (GPU with CUDA)
 
 ## Results
+https://github.com/user-attachments/assets/d0594b5a-da60-405d-98d3-9d8115c7f4b9
 
-
-
-https://github.com/user-attachments/assets/7d97dc86-e32f-4d34-8290-e7f0186b2db6
 
