@@ -1,5 +1,5 @@
 # Threat-Detection-System
-A custom-trained YOLOv5 model designed to detect threats such as handguns, assault rifles, and knives with high accuracy. Trained on a tailored dataset, this system achieves 82% validation accuracy and supports detection in pre-recorded videos, real-time webcam streams, and image directories. Optimized for performance, it delivers ~10 FPS on a CPU and 25+ FPS using a GPU with CUDA.
+A custom-trained YOLOv5 model designed to detect threats such as handguns and knives with high accuracy. Trained on a tailored dataset, this system achieves 82% validation accuracy and supports detection in pre-recorded videos, real-time webcam streams, and image directories. Optimized for performance, it delivers ~10 FPS on a CPU and 25+ FPS using a GPU with CUDA.
 ## Project Summary
 This project utilizes a custom-trained YOLOv5 deep learning model to detect potential threats such as handguns and knives. With 82% validation accuracy, the model has been optimized for detecting threats in pre-recorded videos, achieving approximately:
 
